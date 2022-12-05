@@ -746,7 +746,7 @@
         "iata_designator": "8Z",
         "3_digit_code": "582",
         "icao_code": "CGA",
-        "country": "Democratic Republic of the Congo"
+        "country": "*Democratic Republic of the Congo"
     },
     {
         "name": "COPA Airlines",
