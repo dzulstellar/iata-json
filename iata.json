@@ -32,7 +32,7 @@
         "iata_designator": "SU",
         "3_digit_code": "555",
         "icao_code": "AFL",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Aerolineas Argentinas",
@@ -70,7 +70,7 @@
         "country": "Gabon"
     },
     {
-        "name": "Air Alg\u00e9rie",
+        "name": "Air Algérie",
         "iata_designator": "AH",
         "3_digit_code": "124",
         "icao_code": "DAH",
@@ -151,14 +151,14 @@
         "iata_designator": "9H",
         "3_digit_code": "856",
         "icao_code": "CGN",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Air China",
         "iata_designator": "CA",
         "3_digit_code": "999",
         "icao_code": "CCA",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Air Corsica",
@@ -193,7 +193,7 @@
         "iata_designator": "GT",
         "3_digit_code": "730",
         "icao_code": "CGH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Air India",
@@ -207,7 +207,7 @@
         "iata_designator": "JS",
         "3_digit_code": "120",
         "icao_code": "KOR",
-        "country": "Korea, Democratic People's Republic of"
+        "country": "Korea"
     },
     {
         "name": "Air Macau",
@@ -256,7 +256,7 @@
         "iata_designator": "PX",
         "3_digit_code": "656",
         "icao_code": "ANG",
-        "country": "Independent State of Papua New Guinea"
+        "country": "Papua New Guinea"
     },
     {
         "name": "Air Nostrum",
@@ -305,7 +305,7 @@
         "iata_designator": "TC",
         "3_digit_code": "197",
         "icao_code": "ATC",
-        "country": "Tanzania, United Republic of"
+        "country": "Tanzania"
     },
     {
         "name": "Air Transat",
@@ -326,7 +326,7 @@
         "iata_designator": "RU",
         "3_digit_code": "580",
         "icao_code": "ABW",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Aircalin",
@@ -634,7 +634,7 @@
         "iata_designator": "JD",
         "3_digit_code": "898",
         "icao_code": "CBJ",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Cargojet Airways",
@@ -690,42 +690,42 @@
         "iata_designator": "CI",
         "3_digit_code": "297",
         "icao_code": "CAL",
-        "country": "Chinese Taipei"
+        "country": "Taiwan"
     },
     {
         "name": "China Cargo Airlines",
         "iata_designator": "CK",
         "3_digit_code": "112",
         "icao_code": "CKK",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "China Eastern",
         "iata_designator": "MU",
         "3_digit_code": "781",
         "icao_code": "CES",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "China Express Airlines",
         "iata_designator": "G5",
         "3_digit_code": "987",
         "icao_code": "HXA",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "China Postal Airlines",
         "iata_designator": "CF",
         "3_digit_code": "804",
         "icao_code": "CYZ",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "China Southern Airlines",
         "iata_designator": "CZ",
         "3_digit_code": "784",
         "icao_code": "CSN",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "CityJet",
@@ -746,7 +746,7 @@
         "iata_designator": "8Z",
         "3_digit_code": "582",
         "icao_code": "CGA",
-        "country": "Congo, the Democratic Republic of the"
+        "country": "Democratic Republic of the Congo"
     },
     {
         "name": "COPA Airlines",
@@ -795,7 +795,7 @@
         "iata_designator": "OK",
         "3_digit_code": "064",
         "icao_code": "CSA",
-        "country": "Czech Republic"
+        "country": "Czechia"
     },
     {
         "name": "Delta Air Lines",
@@ -900,7 +900,7 @@
         "iata_designator": "BR",
         "3_digit_code": "695",
         "icao_code": "EVA",
-        "country": "Chinese Taipei"
+        "country": "Taiwan"
     },
     {
         "name": "FedEx Express",
@@ -977,7 +977,7 @@
         "iata_designator": "FU",
         "3_digit_code": "666",
         "icao_code": "FZA",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Garuda Indonesia",
@@ -1019,7 +1019,7 @@
         "iata_designator": "GX",
         "3_digit_code": "872",
         "icao_code": "CBG",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Hahn Air",
@@ -1033,7 +1033,7 @@
         "iata_designator": "HU",
         "3_digit_code": "880",
         "icao_code": "CHH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Hawaiian Airlines",
@@ -1047,7 +1047,7 @@
         "iata_designator": "NS",
         "3_digit_code": "836",
         "icao_code": "HBH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Hi Fly",
@@ -1110,21 +1110,21 @@
         "iata_designator": "IR",
         "3_digit_code": "096",
         "icao_code": "IRA",
-        "country": "Iran, Islamic Republic of"
+        "country": "Iran"
     },
     {
         "name": "Iran Airtour Airline",
         "iata_designator": "B9",
         "3_digit_code": "491",
         "icao_code": "IRB",
-        "country": "Iran, Islamic Republic of"
+        "country": "Iran"
     },
     {
         "name": "Iran Aseman Airlines",
         "iata_designator": "EP",
         "3_digit_code": "815",
         "icao_code": "IRC",
-        "country": "Iran, Islamic Republic of"
+        "country": "Iran"
     },
     {
         "name": "Israir",
@@ -1194,7 +1194,7 @@
         "iata_designator": "HO",
         "3_digit_code": "018",
         "icao_code": "DKH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Kam Air",
@@ -1229,7 +1229,7 @@
         "iata_designator": "KY",
         "3_digit_code": "833",
         "icao_code": "KNA",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Kuwait Airways",
@@ -1320,7 +1320,7 @@
         "iata_designator": "GJ",
         "3_digit_code": "891",
         "icao_code": "CDC",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "LOT Polish Airlines",
@@ -1334,7 +1334,7 @@
         "iata_designator": "8L",
         "3_digit_code": "859",
         "icao_code": "LKE",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Lufthansa",
@@ -1376,7 +1376,7 @@
         "iata_designator": "AE",
         "3_digit_code": "803",
         "icao_code": "MDA",
-        "country": "Chinese Taipei"
+        "country": "Taiwan"
     },
     {
         "name": "Martinair Cargo",
@@ -1467,14 +1467,14 @@
         "iata_designator": "Y7",
         "3_digit_code": "476",
         "icao_code": "TYA",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Nordwind Airlines",
         "iata_designator": "N4",
         "3_digit_code": "216",
         "icao_code": "NWS",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Nouvelair",
@@ -1488,7 +1488,7 @@
         "iata_designator": "BK",
         "3_digit_code": "866",
         "icao_code": "OKA",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Olympic Air",
@@ -1523,7 +1523,7 @@
         "iata_designator": "EO",
         "3_digit_code": "770",
         "icao_code": "KAR",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Pegasus Airlines",
@@ -1572,7 +1572,7 @@
         "iata_designator": "PW",
         "3_digit_code": "031",
         "icao_code": "PRF",
-        "country": "Tanzania, United Republic of"
+        "country": "Tanzania"
     },
     {
         "name": "Privilege Style",
@@ -1614,7 +1614,7 @@
         "iata_designator": "FV",
         "3_digit_code": "195",
         "icao_code": "SDM",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Royal Air Maroc",
@@ -1628,7 +1628,7 @@
         "iata_designator": "BI",
         "3_digit_code": "672",
         "icao_code": "RBA",
-        "country": "Brunei Darussalam"
+        "country": "Brunei"
     },
     {
         "name": "Royal Jordanian",
@@ -1642,14 +1642,14 @@
         "iata_designator": "DR",
         "3_digit_code": "299",
         "icao_code": "RLH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "RusLine",
         "iata_designator": "7R",
         "3_digit_code": "362",
         "icao_code": "RLU",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "RwandAir",
@@ -1663,7 +1663,7 @@
         "iata_designator": "S7",
         "3_digit_code": "421",
         "icao_code": "SBI",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Safair",
@@ -1712,35 +1712,35 @@
         "iata_designator": "O3",
         "3_digit_code": "921",
         "icao_code": "CSS",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Shandong Airlines",
         "iata_designator": "SC",
         "3_digit_code": "324",
         "icao_code": "CDG",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Shanghai Airlines",
         "iata_designator": "FM",
         "3_digit_code": "774",
         "icao_code": "CSH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Shenzhen Airlines",
         "iata_designator": "ZH",
         "3_digit_code": "479",
         "icao_code": "CSZ",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Sichuan Airlines",
         "iata_designator": "3U",
         "3_digit_code": "876",
         "icao_code": "CSC",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "Silk Way West Airlines",
@@ -1768,14 +1768,14 @@
         "iata_designator": "5N",
         "3_digit_code": "316",
         "icao_code": "AUL",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Smartwings",
         "iata_designator": "QS",
         "3_digit_code": "797",
         "icao_code": "TVS",
-        "country": "Czech Republic"
+        "country": "Czechia"
     },
     {
         "name": "Solomon Airlines",
@@ -1824,7 +1824,7 @@
         "iata_designator": "Y8",
         "3_digit_code": "871",
         "icao_code": "YZR",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "SWISS",
@@ -1838,7 +1838,7 @@
         "iata_designator": "RB",
         "3_digit_code": "070",
         "icao_code": "SYR",
-        "country": "Syrian Arab Republic"
+        "country": "Syria"
     },
     {
         "name": "T'way Air",
@@ -1908,7 +1908,7 @@
         "iata_designator": "GS",
         "3_digit_code": "826",
         "icao_code": "GCR",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "TUIfly",
@@ -1943,7 +1943,7 @@
         "iata_designator": "B7",
         "3_digit_code": "525",
         "icao_code": "UIA",
-        "country": "Chinese Taipei"
+        "country": "Taiwan"
     },
     {
         "name": "United Airlines",
@@ -1964,21 +1964,21 @@
         "iata_designator": "U6",
         "3_digit_code": "262",
         "icao_code": "SVR",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Urumqi Air",
         "iata_designator": "UQ",
         "3_digit_code": "886",
         "icao_code": "CUH",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "UTair",
         "iata_designator": "UT",
         "3_digit_code": "298",
         "icao_code": "UTA",
-        "country": "Russian Federation"
+        "country": "Russia"
     },
     {
         "name": "Uzbekistan Airways",
@@ -2062,7 +2062,7 @@
         "iata_designator": "PN",
         "3_digit_code": "847",
         "icao_code": "CHB",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "WestJet",
@@ -2097,13 +2097,13 @@
         "iata_designator": "MF",
         "3_digit_code": "731",
         "icao_code": "CXA",
-        "country": "China (People's Republic of)"
+        "country": "China"
     },
     {
         "name": "YTO Cargo Airlines",
         "iata_designator": "YG",
         "3_digit_code": "860",
         "icao_code": "HYT",
-        "country": "China (People's Republic of)"
+        "country": "China"
     }
 ]
