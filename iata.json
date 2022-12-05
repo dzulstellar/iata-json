@@ -669,7 +669,7 @@
         "iata_designator": "CX",
         "3_digit_code": "160",
         "icao_code": "CPA",
-        "country": "Hong Kong SAR, China"
+        "country": "Hong Kong"
     },
     {
         "name": "Cebu Pacific",
@@ -1257,7 +1257,7 @@
         "iata_designator": "QV",
         "3_digit_code": "627",
         "icao_code": "LAO",
-        "country": "Lao People's Democratic Republic"
+        "country": "Laos"
     },
     {
         "name": "LATAM Airlines Brasil",
