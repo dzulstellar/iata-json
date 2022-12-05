@@ -1061,21 +1061,21 @@
         "iata_designator": "RH",
         "3_digit_code": "828",
         "icao_code": "HKC",
-        "country": "Hong Kong SAR, China"
+        "country": "Hong Kong"
     },
     {
         "name": "Hong Kong Airlines",
         "iata_designator": "HX",
         "3_digit_code": "851",
         "icao_code": "CRK",
-        "country": "Hong Kong SAR, China"
+        "country": "Hong Kong"
     },
     {
         "name": "Hong Kong Express Airways",
         "iata_designator": "UO",
         "3_digit_code": "128",
         "icao_code": "HKE",
-        "country": "Hong Kong SAR, China"
+        "country": "Hong Kong"
     },
     {
         "name": "IBERIA",
